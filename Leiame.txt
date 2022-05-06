@@ -1,0 +1,5 @@
+Projeto desenvolvido para estudo de versionamentos em TI.
+
+Por - Giovana Pessoa Alves Cordeiro 
+
+05/05/2022 - Inicio e Criação do Projeto Versionamento, ultilização do GIT e GITHUB.
